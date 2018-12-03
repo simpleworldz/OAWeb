@@ -1,0 +1,17 @@
+E:\Code\OA\MyOA\DALFactory\bin\Debug\DALFactory.dll
+E:\Code\OA\MyOA\DALFactory\bin\Debug\DALFactory.pdb
+E:\Code\OA\MyOA\DALFactory\obj\Debug\DALFactory.csproj.CoreCompileInputs.cache
+E:\Code\OA\MyOA\DALFactory\obj\Debug\DALFactory.dll
+E:\Code\OA\MyOA\DALFactory\obj\Debug\DALFactory.pdb
+E:\Code\OA\MyOA\DALFactory\obj\Debug\DALFactory.csprojAssemblyReference.cache
+E:\Code\OA\MyOA\DALFactory\bin\Debug\DAL.dll
+E:\Code\OA\MyOA\DALFactory\bin\Debug\EntityFramework.dll
+E:\Code\OA\MyOA\DALFactory\bin\Debug\IDAL.dll
+E:\Code\OA\MyOA\DALFactory\bin\Debug\Model.dll
+E:\Code\OA\MyOA\DALFactory\bin\Debug\DAL.pdb
+E:\Code\OA\MyOA\DALFactory\bin\Debug\IDAL.pdb
+E:\Code\OA\MyOA\DALFactory\bin\Debug\Model.pdb
+E:\Code\OA\MyOA\DALFactory\bin\Debug\Model.dll.config
+E:\Code\OA\MyOA\DALFactory\bin\Debug\EntityFramework.xml
+E:\Code\OA\MyOA\DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Code\OA\MyOA\DALFactory\obj\Debug\DALFactory.csproj.CopyComplete

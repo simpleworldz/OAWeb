@@ -1,0 +1,13 @@
+E:\Code\OA\MyOA\BLL\bin\Debug\BLL.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\BLL.pdb
+E:\Code\OA\MyOA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Code\OA\MyOA\BLL\obj\Debug\BLL.dll
+E:\Code\OA\MyOA\BLL\obj\Debug\BLL.pdb
+E:\Code\OA\MyOA\BLL\bin\Debug\Model.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\EntityFramework.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\Model.pdb
+E:\Code\OA\MyOA\BLL\bin\Debug\Model.dll.config
+E:\Code\OA\MyOA\BLL\bin\Debug\EntityFramework.xml
+E:\Code\OA\MyOA\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Code\OA\MyOA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Code\OA\MyOA\BLL\obj\Debug\BLL.csproj.CopyComplete
