@@ -46,10 +46,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractFactory.cs" />
-    <Compile Include="DBSession.cs" />
+    <Compile Include="DbSession.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{633EC248-0341-444D-923E-CDD5FB462AEA}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{31CC1900-6720-4605-B279-6FE0B121D69A}</Project>
       <Name>DAL</Name>

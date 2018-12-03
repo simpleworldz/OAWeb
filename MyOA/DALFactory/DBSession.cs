@@ -1,17 +1,27 @@
-﻿using DAL;
+﻿using Common;
+using DAL;
 using IDAL;
 using Model;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DALFactory
 {
-    public class DBSession : IDBSession
+    /// <summary>
+    /// 工厂类（数据会话层），创建数据类的实例，业务层通过Dbsession调用相应的数据操作类实例，将数据层和业务层解耦
+    /// </summary>
+    public class DbSession : IDbSession
     {
-        MyContext Db = new MyContext();
+        //DbContext Db = new MyContext();
+        //DbContext Db = DbContextFactory.CreateDbContext();
+        public DbContext Db
+        {
+            get { return DbContextFactory.CreateDbContext(); }
+        }
         private IUserInfoDal _userInfoDal;
         public IUserInfoDal UserInfoDal
         {

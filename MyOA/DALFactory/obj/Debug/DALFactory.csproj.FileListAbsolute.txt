@@ -15,3 +15,5 @@ E:\Code\OA\MyOA\DALFactory\bin\Debug\Model.dll.config
 E:\Code\OA\MyOA\DALFactory\bin\Debug\EntityFramework.xml
 E:\Code\OA\MyOA\DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\Code\OA\MyOA\DALFactory\obj\Debug\DALFactory.csproj.CopyComplete
+E:\Code\OA\MyOA\DALFactory\bin\Debug\Common.dll
+E:\Code\OA\MyOA\DALFactory\bin\Debug\Common.pdb

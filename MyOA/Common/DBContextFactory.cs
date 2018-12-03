@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Common
 {
-  public  class DBContextFactory
+  public  class DbContextFactory
     {
         public static DbContext CreateDbContext()
         {

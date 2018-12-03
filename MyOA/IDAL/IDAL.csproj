@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IBaseDal.cs" />
-    <Compile Include="IDBSession.cs" />
+    <Compile Include="IDbSession.cs" />
     <Compile Include="IUserInfoDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
