@@ -41,9 +41,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfoService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DALFactory\DALFactory.csproj">
+      <Project>{7F0FF974-3F56-44C2-A218-95AE9ECCCF3B}</Project>
+      <Name>DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IBLL\IBLL.csproj">
+      <Project>{499F579A-DF1D-4B23-8DAA-025E0E8C0989}</Project>
+      <Name>IBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IDAL\IDAL.csproj">
+      <Project>{E923DA7C-0E3F-4FA0-BEC2-E712417FEF77}</Project>
+      <Name>IDAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Model\Model.csproj">
       <Project>{49faf307-976f-4f82-8799-3c00589be458}</Project>
       <Name>Model</Name>

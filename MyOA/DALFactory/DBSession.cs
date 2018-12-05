@@ -18,10 +18,12 @@ namespace DALFactory
     {
         //DbContext Db = new MyContext();
         //DbContext Db = DbContextFactory.CreateDbContext();
+        //用来SaveChange的
         public DbContext Db
         {
             get { return DbContextFactory.CreateDbContext(); }
         }
+        //用来操作制定表（UserInfo)
         private IUserInfoDal _userInfoDal;
         public IUserInfoDal UserInfoDal
         {
@@ -39,6 +41,10 @@ namespace DALFactory
             }
         }
 
+        /// <summary>
+        /// 多个改动只执行一次SaveChanges(),减少连接数据库的次数，提高效率
+        /// </summary>
+        /// <returns></returns>
         public bool SaveChanges()
         {
             return Db.SaveChanges() > 0;

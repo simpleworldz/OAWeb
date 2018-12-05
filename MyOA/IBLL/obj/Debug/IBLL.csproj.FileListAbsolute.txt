@@ -11,3 +11,5 @@ E:\Code\OA\MyOA\IBLL\bin\Debug\EntityFramework.xml
 E:\Code\OA\MyOA\IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\Code\OA\MyOA\IBLL\obj\Debug\IBLL.csprojAssemblyReference.cache
 E:\Code\OA\MyOA\IBLL\obj\Debug\IBLL.csproj.CopyComplete
+E:\Code\OA\MyOA\IBLL\bin\Debug\IDAL.dll
+E:\Code\OA\MyOA\IBLL\bin\Debug\IDAL.pdb

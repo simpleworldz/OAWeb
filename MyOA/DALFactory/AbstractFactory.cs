@@ -15,7 +15,7 @@ namespace DALFactory
     /// </summary>
     public class AbstractFactory
     {
-        private static readonly string DalAssemblePath = ConfigurationManager.AppSettings["DalAssemblePath"];
+        private static readonly string DalAssemblyPath = ConfigurationManager.AppSettings["DalAssemblyPath"];
         private static readonly string NameSpace = ConfigurationManager.AppSettings["NameSpace"];
         /// <summary>
         /// 创建  UserInfoDal实例
@@ -34,7 +34,7 @@ namespace DALFactory
         /// <returns></returns>
         public static object CreateInstance(string fullClassName)
         {
-            var assemble = Assembly.Load(DalAssemblePath);
+            var assemble = Assembly.Load(DalAssemblyPath);
             return assemble.CreateInstance(fullClassName);
         }
     }

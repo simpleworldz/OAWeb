@@ -11,8 +11,8 @@ E:\Code\OA\MyOA\Model\bin\Debug\EntityFramework.SqlServer.xml
 E:\Code\OA\MyOA\Model\bin\Debug\System.Data.SQLite.xml
 E:\Code\OA\MyOA\Model\bin\Debug\System.Data.SQLite.dll.config
 E:\Code\OA\MyOA\Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
-E:\Code\OA\MyOA\Model\obj\Debug\Model.csprojAssemblyReference.cache
 E:\Code\OA\MyOA\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 E:\Code\OA\MyOA\Model\obj\Debug\Model.csproj.CopyComplete
 E:\Code\OA\MyOA\Model\obj\Debug\Model.dll
 E:\Code\OA\MyOA\Model\obj\Debug\Model.pdb
+E:\Code\OA\MyOA\Model\obj\Debug\Model.csprojAssemblyReference.cache

@@ -11,3 +11,11 @@ E:\Code\OA\MyOA\BLL\bin\Debug\EntityFramework.xml
 E:\Code\OA\MyOA\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\Code\OA\MyOA\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
 E:\Code\OA\MyOA\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Code\OA\MyOA\BLL\bin\Debug\DALFactory.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\IBLL.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\IDAL.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\Common.dll
+E:\Code\OA\MyOA\BLL\bin\Debug\DALFactory.pdb
+E:\Code\OA\MyOA\BLL\bin\Debug\IBLL.pdb
+E:\Code\OA\MyOA\BLL\bin\Debug\IDAL.pdb
+E:\Code\OA\MyOA\BLL\bin\Debug\Common.pdb

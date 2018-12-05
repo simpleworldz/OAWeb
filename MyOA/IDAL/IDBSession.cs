@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace IDAL
 {
     public interface IDbSession
-    {
+    {   
         IUserInfoDal UserInfoDal { get; set; }
         bool SaveChanges();
     }
