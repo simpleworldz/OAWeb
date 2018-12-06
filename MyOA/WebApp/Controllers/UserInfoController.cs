@@ -19,7 +19,7 @@ namespace WebApp.Controllers
             IBLL.IUserInfoService userInfoService = new BLL.UserInfoService();
             //也得理解下，其实 BLL.UserInfoService 就将Set<T> T 替换为 UserInfo了
             var userInfoList = userInfoService.LoadEntities(u => true);
-            ViewData.Model = userInfoService;
+            ViewData.Model = userInfoList;
             return View();
         }
     }
