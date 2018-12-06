@@ -64,7 +64,7 @@
       <Name>IDAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{49FAF307-976F-4F82-8799-3C00589BE458}</Project>
+      <Project>{3c1012e6-d127-4a37-a77a-360e94711d3e}</Project>
       <Name>Model</Name>
     </ProjectReference>
   </ItemGroup>

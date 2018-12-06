@@ -14,7 +14,7 @@ namespace Model
     
     public partial class UserInfo
     {
-        public long Id { get; set; }
+        public int Id { get; set; }
         public string UName { get; set; }
         public string UPwd { get; set; }
         public Nullable<System.DateTime> SubTime { get; set; }
