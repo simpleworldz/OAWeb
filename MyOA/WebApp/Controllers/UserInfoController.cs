@@ -10,17 +10,22 @@ namespace WebApp.Controllers
     {
         // GET: UserInfo
         //因为耦合，之后会用Spring改写
-        
-         //!!并不会执行这个??，要执行的话要加static，貌似这边用了Spring ??//
-         //好吧 就连static也不行，加载方法里也不行。
-       //static IBLL.IUserInfoService userInfoService = new BLL.UserInfoService();
+
+            //创建实例时会加载，如果加上static则创建实例或是使用静态方法时加载
+            //且依据Nums的测试，加了static只执行一次，而不加，new()一次执行一次
+        /*static */IBLL.IUserInfoService userInfoService = new BLL.UserInfoService();
         public ActionResult Index()
         {
-            IBLL.IUserInfoService userInfoService = new BLL.UserInfoService();
+            //IBLL.IUserInfoService userInfoService = new BLL.UserInfoService();
             //也得理解下，其实 BLL.UserInfoService 就将Set<T> T 替换为 UserInfo了
             var userInfoList = userInfoService.LoadEntities(u => true);
             ViewData.Model = userInfoList;
             return View();
         }
+       
+        //public static void testc()
+        //{
+        //    userInfoService.LoadEntities(u => true);
+        //}
     }
 }

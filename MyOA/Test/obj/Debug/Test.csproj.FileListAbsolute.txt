@@ -1,0 +1,6 @@
+E:\Code\OA\MyOA\Test\bin\Debug\Test.exe.config
+E:\Code\OA\MyOA\Test\bin\Debug\Test.exe
+E:\Code\OA\MyOA\Test\bin\Debug\Test.pdb
+E:\Code\OA\MyOA\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Code\OA\MyOA\Test\obj\Debug\Test.exe
+E:\Code\OA\MyOA\Test\obj\Debug\Test.pdb
