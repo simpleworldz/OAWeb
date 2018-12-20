@@ -1,0 +1,14 @@
+E:\Code\OA\MyOA\WCFService\bin\WCFService.dll.config
+E:\Code\OA\MyOA\WCFService\bin\WCFService.dll
+E:\Code\OA\MyOA\WCFService\bin\WCFService.pdb
+E:\Code\OA\MyOA\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+E:\Code\OA\MyOA\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+E:\Code\OA\MyOA\WCFService\obj\Debug\WCFService.dll
+E:\Code\OA\MyOA\WCFService\obj\Debug\WCFService.pdb
+E:\Code\OA\Other\WCFService\bin\WCFService.dll.config
+E:\Code\OA\Other\WCFService\bin\WCFService.dll
+E:\Code\OA\Other\WCFService\bin\WCFService.pdb
+E:\Code\OA\Other\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+E:\Code\OA\Other\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+E:\Code\OA\Other\WCFService\obj\Debug\WCFService.dll
+E:\Code\OA\Other\WCFService\obj\Debug\WCFService.pdb

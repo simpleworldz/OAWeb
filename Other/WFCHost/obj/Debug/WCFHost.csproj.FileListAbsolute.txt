@@ -1,0 +1,11 @@
+E:\Code\OA\Other\WFCHost\bin\Debug\WCFHost.exe.config
+E:\Code\OA\Other\WFCHost\bin\Debug\WCFHost.exe
+E:\Code\OA\Other\WFCHost\bin\Debug\WCFHost.pdb
+E:\Code\OA\Other\WFCHost\bin\Debug\WCFService.dll
+E:\Code\OA\Other\WFCHost\bin\Debug\WCFService.pdb
+E:\Code\OA\Other\WFCHost\bin\Debug\WCFService.dll.config
+E:\Code\OA\Other\WFCHost\obj\Debug\WCFHost.csprojAssemblyReference.cache
+E:\Code\OA\Other\WFCHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+E:\Code\OA\Other\WFCHost\obj\Debug\WCFHost.csproj.CopyComplete
+E:\Code\OA\Other\WFCHost\obj\Debug\WCFHost.exe
+E:\Code\OA\Other\WFCHost\obj\Debug\WCFHost.pdb

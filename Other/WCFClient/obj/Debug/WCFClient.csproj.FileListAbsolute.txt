@@ -1,0 +1,7 @@
+E:\Code\OA\Other\WCFClient\bin\Debug\WCFClient.exe.config
+E:\Code\OA\Other\WCFClient\bin\Debug\WCFClient.exe
+E:\Code\OA\Other\WCFClient\bin\Debug\WCFClient.pdb
+E:\Code\OA\Other\WCFClient\obj\Debug\WCFClient.csprojAssemblyReference.cache
+E:\Code\OA\Other\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+E:\Code\OA\Other\WCFClient\obj\Debug\WCFClient.exe
+E:\Code\OA\Other\WCFClient\obj\Debug\WCFClient.pdb

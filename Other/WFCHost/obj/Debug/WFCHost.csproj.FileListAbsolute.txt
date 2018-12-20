@@ -1,0 +1,6 @@
+E:\Code\OA\Other\WFCHost\bin\Debug\WFCHost.exe.config
+E:\Code\OA\Other\WFCHost\bin\Debug\WFCHost.exe
+E:\Code\OA\Other\WFCHost\bin\Debug\WFCHost.pdb
+E:\Code\OA\Other\WFCHost\obj\Debug\WFCHost.csproj.CoreCompileInputs.cache
+E:\Code\OA\Other\WFCHost\obj\Debug\WFCHost.exe
+E:\Code\OA\Other\WFCHost\obj\Debug\WFCHost.pdb
