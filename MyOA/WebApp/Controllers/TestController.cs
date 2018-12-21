@@ -21,5 +21,12 @@ namespace WebApp.Controllers
             ViewBag.num2 = num2;
             return View();
         }
+        public ActionResult Error()
+        {
+            int a = 0;
+            int b = 1;
+            int c = b / a;
+            return Content(c.ToString());
+        }
     }
 }
